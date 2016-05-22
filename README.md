@@ -1,9 +1,6 @@
 # reddit-vlc
 
-Introduction
-============
-
-This extension allow easy access to reddit from vlc.
+An extension that allow easy access to reddit from vlc.
 It can be easily configured for other subreddits besides /r/anime.
 
 Download
