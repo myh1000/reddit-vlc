@@ -5,8 +5,8 @@ function descriptor()
      version = "1.0",
      author = "Michael Huang",
      url = 'http://github.com/myh1000/reddit-vlc',
-     shortdesc = "opens the /r/anime",
-     description = "opens the /r/anime, in the future automatically going to the discussion pages",
+     shortdesc = "opens /r/anime",
+     description = "opens /r/anime",
      capabilities = {}
    }
 end
