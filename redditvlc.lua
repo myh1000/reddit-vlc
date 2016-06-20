@@ -1,10 +1,10 @@
--- "/r/anime.lua" -- VLC Extension --
+-- "redditvlc.lua" -- VLC Extension --
 function descriptor()
    return {
      title = "Open /r/anime",
      version = "1.0",
      author = "Michael Huang",
-     url = 'http://github.com/myh1000/VLC-anime',
+     url = 'http://github.com/myh1000/reddit-vlc',
      shortdesc = "opens the /r/anime",
      description = "opens the /r/anime, in the future automatically going to the discussion pages",
      capabilities = {}
